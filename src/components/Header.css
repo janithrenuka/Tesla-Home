@@ -6,7 +6,7 @@
     width: 100vw;
     top: 0;
     margin: 15px;
-    margin-top: 15px;
+    margin-top: 5px;
     z-index: 100;
 }
 
@@ -24,12 +24,14 @@
 
 .header_center p {
     margin: 10px;
+    font-weight: 500;
 }
 
 .header_right {
     display: flex;
+    font-weight:500;
     justify-content: flex-end;
-    margin-right: 15px;
+    margin-right: 30px;
 }
 
 .header_right p {

@@ -1,0 +1,18 @@
+.footer {
+    display: flex;
+    background-color: transparent;
+    bottom: 0;
+    z-index: 100;
+}
+
+.footer_center {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.footer_center p {
+    margin: 15px;
+    font-weight: 400;
+    color: #55585c;
+}
